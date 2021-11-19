@@ -1,5 +1,5 @@
 # The SABA algorithm was proposed in the folowing paper.
-Towards Heat-Recirculation-Aware Virtual Machine Placement in Data Centers. Hao Feng, Yuhui Deng, Yi Zhou and Geyong Min, in IEEE Transactions on Network and Service Management (doi: 10.1109/TNSM.2021.3120295).  Published online.
+Hao Feng, Yuhui Deng, Yi Zhou and Geyong Min. Towards Heat-Recirculation-Aware Virtual Machine Placement in Data Centers. IEEE Transactions on Network and Service Management (doi: 10.1109/TNSM.2021.3120295).  Published online.
 ## 1. Introduction
 The SABA algorithm is proposed to reduce the power of data centers by using the heat-recirculation-aware virtual machine placement.
 ## 2. Environment
